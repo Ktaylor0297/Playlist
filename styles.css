@@ -1,9 +1,6 @@
 
 <style>
 
-img{ width:100%;
-  align-self:center;
-}
 
 h1{
 text-align: center;
@@ -15,6 +12,9 @@ text-align: center;
 }
 
 
+img{ width:65%;
+  align-self:center;
+}
 
 body{
 display:block;
