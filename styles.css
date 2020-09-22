@@ -1,7 +1,4 @@
 
-<style>
-
-
 h1{
 text-align: center;
 color: black;
@@ -13,7 +10,8 @@ text-align: center;
 
 
 img{ width:65%;
-  align-self:center;
+  margin: auto;
+  display: block;
 }
 
 body{
@@ -29,7 +27,3 @@ line-height:200%;
  background-repeat: no-repeat;
  background-position: center;
 }
-
-
-
-</style>
